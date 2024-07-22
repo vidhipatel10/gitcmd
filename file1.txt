@@ -5,3 +5,6 @@ hello world
 gagan seth
 >>>>>>> 56702d4e6f0bd9763a7dc5b652f403f5974cefce
 vidhi patel
+
+Git and Github day 3
+22/07
