@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
 
+=======
+gagan seth
+>>>>>>> 56702d4e6f0bd9763a7dc5b652f403f5974cefce
+vidhi patel
